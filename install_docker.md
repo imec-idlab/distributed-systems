@@ -1,4 +1,4 @@
-# Making Docker work on 18.04
+# Making Docker work on Ubuntu 18.04 LTS
 
 To install Docker on a **native** Ubuntu 18.04 LTS, the following steps should work (i.e., tested & approved):
 
