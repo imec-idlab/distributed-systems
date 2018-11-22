@@ -49,3 +49,5 @@ Make sure the case-sensitivity is alright by making a link:
     sudo ln -s /usr/local/bin/VBoxManage /usr/local/bin/vboxmanage
 
 You're **done**!
+
+More information can be found on:  [https://github.com/docker/machine/issues/4590](https://github.com/docker/machine/issues/4590)
